@@ -1,1 +1,1 @@
-# some stuff fro new install
+# some stuff for new install
