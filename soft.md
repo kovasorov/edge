@@ -10,6 +10,16 @@
 + VSCode
 + htop (repo)
 + vpnc (repo) + config
++ hosts file
++ Shutter
++ Ásbrú Connection Manager
++ Pomodoro Timer
++ VirtualBox
++ zsh + oh my zsh + agnoster theme
++ ctop
++ Docker, Docker Compose
++ Ansible
++ snx
 
 ## Steps
 
